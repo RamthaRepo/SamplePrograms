@@ -8,7 +8,7 @@ namespace ConsoleApp3
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Test Commit");
-            console.WriteLine("Cloned REpository");
+            Console.WriteLine("Cloned REpository");
         }
     }
 }
